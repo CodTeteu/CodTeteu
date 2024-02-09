@@ -1,5 +1,5 @@
 # 💫 About Me:
-sou estudante de python, estou usando o github para salvar meus projetos e analisar como estou evoluindo nos estudos para a area de analise de dados
+Sou um estudante de Python focado em análise de dados, utilizando o GitHub para guardar meus projetos e acompanhar minha evolução ao longo do tempo.
 
 
 ## 🌐 Socials:
